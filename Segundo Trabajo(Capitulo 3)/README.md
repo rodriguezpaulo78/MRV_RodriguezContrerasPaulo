@@ -1,8 +1,8 @@
 ANTES DE INICIAR:
--Windows->Package Manager-> Instalar Oculus(Android), Oculus y OpenVR
--BuildSettings->Player Settings-> Activar VR y selecccionar Oculus android
--Edit->Preferences (VERIFICAR QUE EL SDK DE ANDROID ESTÉ) 
--Switch Platform
+1) Windows->Package Manager-> Instalar Oculus(Android), Oculus y OpenVR
+2) BuildSettings->Player Settings-> Activar VR y selecccionar Oculus android
+3) Edit->Preferences (VERIFICAR QUE EL SDK DE ANDROID ESTÉ) 
+4) Switch Platform
 
 Los archivos del Proyecto están en la Carpeta Assets, las demás carpetas son librerias importadas y configuraciones. Para abrir la escena del trabajo ir a "Assets/Scenes/Diorama.unity"
 Esta es la escena del Segundo Trabajo que se abre en Unity. 
