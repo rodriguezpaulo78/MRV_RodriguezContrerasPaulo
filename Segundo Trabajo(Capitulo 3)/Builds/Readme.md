@@ -1,0 +1,1 @@
+Copiar el instalador "Capitulo3.apk" al celular e instalar la aplicación.
