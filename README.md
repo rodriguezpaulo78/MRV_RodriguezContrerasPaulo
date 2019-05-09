@@ -3,8 +3,8 @@
 Repositorio del Curso de Multimedia y Realidad Virtual 2019 - Universidad Nacional de San Agustin, Escuela Profesional de Ingenieria de Sistemas.
 
 Alumnos: 
-- Rodriguez Contreras, Paulo Cesar
-- Vilca Quico, Brigitte Roxana
+- Rodriguez Contreras, Paulo Cesar, CUI: 20142373
+- Vilca Quico, Brigitte Roxana, CUI: 20143361
 
 INSTRUCCIONES SI TIENE UNITY 
 
