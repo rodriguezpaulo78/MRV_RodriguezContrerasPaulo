@@ -11,9 +11,9 @@ Los archivos del Proyecto están en la Carpeta Assets, las demás carpetas son lib
 Para abrir las escenas del trabajo ir a "Assets/Scenes/"  Donde se encontraran las escenas como .unity que se abren en Unity. 
 
 Mejoras Realizadas: 
--Agregar Collider a los logos(en opciones de importacion marcar la casilla generate coliders)
--Elevator otra posicion(hecho)
--SkyBox no se veía en Game Mode(resuelto: Yhttps://answers.unity.com/questions/1223256/skybox-isnt-showing-in-game-view.html///Make sure the camera component has clear flags set to skybox),
--Poner limites para que no se caiga(hecho).
+- Agregar Collider a los logos(en opciones de importacion marcar la casilla generate coliders)
+- Elevator otra posicion(hecho)
+- SkyBox no se veía en Game Mode(resuelto: Yhttps://answers.unity.com/questions/1223256/skybox-isnt-showing-in-game-view.html///Make sure the camera component has clear flags set to skybox),
+- Poner limites para que no se caiga(hecho).
 
 
