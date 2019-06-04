@@ -3,5 +3,5 @@ Aquí se encontrarán los Assets o paquetes extra para la elaboración de los capit
 2) Capitulo 8 - Wispy Sky
 3) Capitulo 9 - Wispy Sky y skyb1
 
-Bastará con copiar estas carpetas a las carpetas de los capitulos correspondientes.
+Bastará con copiar estas carpetas dentro de la carpeta "Assets" de los capitulos correspondientes.
 
