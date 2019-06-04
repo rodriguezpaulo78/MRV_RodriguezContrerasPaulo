@@ -5,16 +5,16 @@ Para ello seguiremos los siguientes pasos.
 2) ArtWorkRig: Crearemos una plataforma de arte con un marco de imagen, iluminación y posicionamiento.  
    (Tenemos que ubicarlos segun nuestro modelo jugar con valores de Spotlight)
 3) Valor "Position" de los cuadros(ya que no es exactamente la del libro): 
-	-(1.65, 0.8, -1.41)
-	-(-1.05, 0.8, -4.28)
-	-(-2.82, 0.8, -2.6)
-	-(-2.82, 0.8, -0.3)
-	-(-1,6, 0.8, 1.35)
-	-(1.5, 0.8, -1.36)
-	-(2.88, 0.8, 0.2)
-	-(2.88, 0.8, 2.9)
-	-(1.5, 0.8, 4.24)
-	-(-1.5, 0.8, 1.4)
+	- (1.65, 0.8, -1.41)
+	- (-1.05, 0.8, -4.28)
+	- (-2.82, 0.8, -2.6)
+	- (-2.82, 0.8, -0.3)
+	- (-1,6, 0.8, 1.35)
+	- (1.5, 0.8, -1.36)
+	- (2.88, 0.8, 0.2)
+	- (2.88, 0.8, 2.9)
+	- (1.5, 0.8, 4.24)
+	- (-1.5, 0.8, 1.4)
 	
 3) Adding Photos: Añadiremos fotos a los cuadros anteriormente creados.
 4) Animated Walk Through: Un recorrido por todo el cuarto, echando un vistazo en cada imagen.
